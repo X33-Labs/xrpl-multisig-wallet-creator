@@ -4,10 +4,7 @@ X33 Labs has created an easy test script to generate a multisig wallet on the XR
 
 To Run Script:
 
-1. Install Node JS and NPM:
-
-        (https://nodejs.org/en/download/)
-
+1. [Install Node JS and NPM](https://nodejs.org/en/download/)
 2. Open index.js in VS Code or Notepad and change the setting variables at the top of the file:
 
         var masterMultiSigAccountSecret = "" //secret key for the multisig wallet
